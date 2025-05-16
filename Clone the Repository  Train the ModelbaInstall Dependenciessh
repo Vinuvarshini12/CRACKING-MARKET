@@ -1,0 +1,6 @@
+Clone the Repository
+
+bashgit clone https://github.com/when2buy/stock-prediction.git
+cd stock-prediction
+pip install -r requirements.txt
+python app/train.py
